@@ -1,0 +1,9 @@
+.line {
+    position: absolute;
+    width:15%;
+    left: 176px;
+    height: 2px;
+    color: rgb(222,161,9);
+    background-color: rgb(222,161,9);
+
+}
